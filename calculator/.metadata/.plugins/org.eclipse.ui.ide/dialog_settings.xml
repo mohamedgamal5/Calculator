@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\FCI_CU\FCAI-CU 3.1\Data compression\Vector-Quantization-master"/>
+			<item value="D:\FCI_CU\FCAI-CU 3.1\Data compression\ASS_4 ( Vector Quantization )"/>
+			<item value="D:\FCI_CU\FCAI-CU 3.1\Data compression\Vector-Quantization-LBG-Image-Compression-master"/>
+			<item value="D:\FCI_CU\FCAI-CU 3.1\Data compression\Old\IT433 - Multimedia\2018\StandardHuffman"/>
+			<item value="D:\FCI_CU\FCAI-CU 3.1\Data compression\Old\IT433 - Multimedia\2018\JPEG"/>
+			<item value="D:\GUI JAVA\calculator\src\calculator"/>
+			<item value="D:\GUI JAVA\calculator\src"/>
+			<item value="D:\GUI JAVA\calculator"/>
+		</list>
+	</section>
+	<section name="ExternalProjectImportWizard">
+	</section>
+</section>
